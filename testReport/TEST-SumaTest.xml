@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite errors="0" failures="0" hostname="192-168-7-19" name="SumaTest" tests="2" time="0.047" timestamp="2013-10-25T18:06:26">
+<testsuite errors="0" failures="0" hostname="192-168-7-19" name="SumaTest" tests="2" time="0.047" timestamp="2013-10-25T18:18:08">
   <properties>
     <property name="java.vendor" value="Oracle Corporation" />
     <property name="sun.java.launcher" value="SUN_STANDARD" />
@@ -54,7 +54,7 @@
     <property name="java.vendor.url" value="http://java.oracle.com/" />
     <property name="java.vm.vendor" value="Oracle Corporation" />
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment" />
-    <property name="sun.java.command" value="org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner SumaTest filtertrace=true haltOnError=false haltOnFailure=true formatter=org.apache.tools.ant.taskdefs.optional.junit.SummaryJUnitResultFormatter showoutput=false outputtoformatters=true logfailedtests=true logtestlistenerevents=false formatter=org.apache.tools.ant.taskdefs.optional.junit.XMLJUnitResultFormatter,C:\Users\bk0812\miw\CITravis\testReport\TEST-SumaTest.xml crashfile=C:\Users\bk0812\miw\CITravis\junitvmwatcher2035011157377078461.properties propsfile=C:\Users\bk0812\miw\CITravis\junit3597645717814533678.properties" />
+    <property name="sun.java.command" value="org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner SumaTest filtertrace=true haltOnError=false haltOnFailure=true formatter=org.apache.tools.ant.taskdefs.optional.junit.SummaryJUnitResultFormatter showoutput=false outputtoformatters=true logfailedtests=true logtestlistenerevents=false formatter=org.apache.tools.ant.taskdefs.optional.junit.XMLJUnitResultFormatter,C:\Users\bk0812\miw\CITravis\testReport\TEST-SumaTest.xml crashfile=C:\Users\bk0812\miw\CITravis\junitvmwatcher4232923131439426005.properties propsfile=C:\Users\bk0812\miw\CITravis\junit2338539394678342723.properties" />
     <property name="java.class.path" value="C:\Users\bk0812\miw\CITravis\build\main;C:\Users\bk0812\miw\CITravis\build\test;C:\Users\bk0812\miw\CITravis\lib\junit-4.10.jar;D:\EUI_PORTABLES\Eclipse Kepler\plugins\org.apache.ant_1.8.4.v201303080030\lib\ant-launcher.jar;D:\EUI_PORTABLES\Eclipse Kepler\plugins\org.apache.ant_1.8.4.v201303080030\lib\ant.jar;D:\EUI_PORTABLES\Eclipse Kepler\plugins\org.apache.ant_1.8.4.v201303080030\lib\ant-junit.jar;D:\EUI_PORTABLES\Eclipse Kepler\plugins\org.apache.ant_1.8.4.v201303080030\lib\ant-junit4.jar" />
     <property name="ant.version" value="Apache Ant(TM) version 1.8.4 compiled on May 22 2012" />
     <property name="java.vm.specification.name" value="Java Virtual Machine Specification" />
@@ -79,7 +79,7 @@
     <property name="ant.project.invoked-targets" value="main" />
     <property name="junit" value="C:\Users\bk0812\miw\CITravis\lib\junit-4.10.jar" />
   </properties>
-  <testcase classname="SumaTest" name="aVerSiIncrementaBien" time="0.0" />
+  <testcase classname="SumaTest" name="aVerSiIncrementaBien" time="0.016" />
   <testcase classname="SumaTest" name="aVerSiSumaBien" time="0.0" />
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
