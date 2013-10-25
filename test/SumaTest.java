@@ -13,6 +13,7 @@ public class SumaTest {
 	@Before
 	public void paraEjecutarAntes() {
 		suma = new Suma();
+		System.out.println("Hello Travis!!!");
 	}
 
 	@Test
